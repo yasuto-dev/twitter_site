@@ -1,0 +1,35 @@
+.balloon1-left {
+    margin : 30px ;
+    margin-bottom :30px ;
+    padding: 20px;
+    min-width: 120px;
+    color: #555;
+    font-size: 18px;
+    background: #e0edff;
+    border-radius: 10px;
+  }
+
+  
+  .balloon1-left p {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: #e6ecf0;
+    padding-top: 54px;
+  }
+  
+  .card-body {
+    margin-bottom: 1em;
+ }
+
+ .container{
+  margin : 30px ;
+  margin-top :30px ;
+
+ }
+
+ .top{
+   margin-top: auto;
+ }
